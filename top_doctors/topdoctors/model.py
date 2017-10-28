@@ -5,7 +5,6 @@ from sqlalchemy.orm import relationship
 
 Base = declarative_base()
 
-# Todo connect doctors and facilities
 # http://docs.sqlalchemy.org/en/latest/orm/basic_relationships.html
 
 
